@@ -1,0 +1,6 @@
+--class level modifier
+public
+default
+private
+protected
+abstract class (if a class is abstract object craeion is not possible
